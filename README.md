@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Restful API´s and Delphi.**
 
-- 👨‍💻 All of my projects are available at [https://kehs4.github.io/portfolio/](https://kehs4.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://kehs4.github.io/portfolio/](https://kehs4.github.io/PortfolioDev/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kehs4&show_icons=true&locale=en&layout=compact" alt="kehs4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kehs4&show_icons=true&locale=en" alt="kehs4" /></p>
